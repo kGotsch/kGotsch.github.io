@@ -9,9 +9,9 @@ labels:
 ---
 ## 1. Provide a brief introduction to the WOD along with a link to this page for further details
 The three WODs that were completed since the last essay were BrowserHistory6, SmartPhoneProducts1, and Invoice1. Here are the links to all three: 
-[Browser History 6](https://dport96.github.io/ITM352/morea/040.dynamic-web-pages/experience-browserhistory6.html)
-[SmartPhoneProducts1](https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html)
-[Invoice1](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html)
+[Browser History 6](https://dport96.github.io/ITM352/morea/040.dynamic-web-pages/experience-browserhistory6.html),
+[SmartPhoneProducts1](https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html),
+[Invoice1](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html).
 BrowserHistory6 involved getting a little more fancier with the WODs that were previously worked on. In this WOD, we also used onmouseclick  and onmouseover (I believe to display an image when hovering). SmartPhoneProducts1 was basically taking what we have worked on in labs and replacing any hard coded names, price, etc. with variables.  Invoice1 was setting up a bunch of equations, and then formatting rows of information in order to make it look like an invoice. 
 ## 2. Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.
 Overall, I feel that my experience was fairly good with the WOD’s. I was able to understand what I needed to do to complete the steps. I feel that the instructions were really helpful in giving me hints on how to approach each step. I did encounter some problems. With BrowserHistory6, I struggled to get images of logos to display when my mouse was hovering over the tabs. I also struggled with invoice1 originally, as I had a hard time either figuring out the different quotations used ( “ ‘ `), and sometimes the code looked like a mess so I forgot closing tags, or to use a script. All of this definitely slowed down my time in trying to complete this exercise. 
