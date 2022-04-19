@@ -9,8 +9,7 @@ labels:
 ---
 ## 1. Provide a brief introduction to the assignment along with a link to this page for further details
 In Assignment 2, we took what we already made and added a login feature before taking the user to an invoice. The login was supposed to have certain acceptable characters/lengths/etc for the user to login. We made a JSON file and used that to match an account, save newly created accounts, and update account details. 
-Link to Assignment 2 Details: [Assignment2](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html)
-Link to Essay Page: [E5: Reflecting on Assignment 2 Technical Essay](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html)
+Link to Assignment 2 Details (Assignment Page and Essay): [Assignment2](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html), [E5: Reflecting on Assignment 2 Technical Essay](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html)
 ## 2. What did you learn from this assignment?
 Assignment 2 has taught me how to access and edit files, which was used to create a login profile (email and password). I feel that this assignment has taught me to troubleshoot more than Assignment 1 due to the many problems I encountered in this assignment over the previous one. 
 ## 3. Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
