@@ -15,7 +15,7 @@ Assignment 2 has taught me how to access and edit files, which was used to creat
 ## 3. Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
 Worked on my own for Assignment 2. 
 ## 4. How did you get help when you needed it? What did you need help with?
-When encountering an issue (or just needing help), I either asked friends or tried looking up my issues online. Some help I needed was with how to structure the validation, and carrying over the quantity through multiple plages. 
+When encountering an issue (or just needing help), I either asked friends or tried looking up my issues online. I also looked at other students codes when I got super  stuck to see what I could do to resolve those issues. For example, one area where I struggled was carrying over the quantity through multiple plages. 
 ## 5. How was developing this assignment different than assignment #1?
 I feel that there was a lot more thinking involved with Assignment 2 then with Assignment 1. It was nice that all of the pages were created, and not a lot of code is involved to create a login page. Because of that a lot more thought was put into redirecting the user to the login page first (and giving them the option to create an account/change account details), and then validating that it matches the assignment requirements. 
 ## 6. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
