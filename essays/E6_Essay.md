@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: E6: Evaluation Guidelines and Class Retrospective BLOG
-date: 2022-04-19
+date: 2022-05-13
 labels:
   - MIS
   - Learning
